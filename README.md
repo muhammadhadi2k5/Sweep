@@ -22,5 +22,7 @@ A simple Java program that organizes files in the current directory into categor
     ```
 
 2. Make sure your files are in the same folder as `Main.java` when running it.
+   
+4. Please see the file manager demo.mp4 to see how it works
 
-3. Your files will be moved into the folders like `/Images`, `/Videos`, etc. as mentioned above.
+5. Your files will be moved into the folders like `/Images`, `/Videos`, etc. as mentioned above.
