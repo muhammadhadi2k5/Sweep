@@ -1,4 +1,4 @@
-# File Manager
+# Sweep
 A simple Java program that organizes files in the current directory into categorized folders based on the file extensions.
 
 ## Features
